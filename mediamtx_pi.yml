@@ -1,0 +1,13 @@
+logLevel: info
+rtspAddress: :8554
+rtpAddress: :8000
+rtcpAddress: :8001
+webrtcAddress: :8889
+hlsAddress: :8888
+
+paths:
+  cam:
+    source: publisher
+    overridePublisher: yes
+  all_others:
+    source: publisher

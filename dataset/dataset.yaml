@@ -1,0 +1,9 @@
+# FIBO Custom Obstacle & Wall Dataset Configuration
+path: C:/Users/suwin/Documents/FIBO/Reoptimizedtracking/dataset
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: wall
+  1: obstacle

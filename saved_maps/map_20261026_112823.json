@@ -1,0 +1,19 @@
+{
+  "width_m": 25.0,
+  "height_m": 25.0,
+  "resolution": 0.05,
+  "cols": 500,
+  "rows": 500,
+  "origin_x": -10.0,
+  "origin_y": -10.0,
+  "robot_radius_m": 0.18,
+  "robot_pose": [
+    3.873803381335496,
+    2.2150301732322375,
+    -0.8813912722571349
+  ],
+  "free_cells": 33550,
+  "occupied_cells": 3443,
+  "unknown_cells": 213007,
+  "saved_at": "2026-10-26T11:28:23.641733"
+}
